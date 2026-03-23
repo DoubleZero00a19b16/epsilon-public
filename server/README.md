@@ -1,15 +1,13 @@
 # Backend System Documentation
 
-## Contributors
-
-- **Development Team**: Epsilon Backend Development
-- **Role**: Backend Architecture, API Development, Database Design, AI Integration
-
 <a href="https://github.com/DoubleZero00a19b16">
   <img src="https://github.com/DoubleZero00a19b16.png" width="60px" style="border-radius:50%;" alt="DoubleZero00a19b16's Profile"/>
 </a>
 
 **Contributor:** [DoubleZero00a19b16](https://github.com/DoubleZero00a19b16)
+
+- **Development Team**: Epsilon Backend Development
+- **Role**: Backend Architecture, API Development, Database Design, AI Integration
 
 ---
 
