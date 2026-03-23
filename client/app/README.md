@@ -204,6 +204,9 @@ Global layout styles live in `styles/styles.ts` and cover shared primitives (`s.
 Modal card corners use `borderRadius: 32` throughout, bottom sheets use `borderTopLeftRadius/borderTopRightRadius: 32`, and all interactive elements use `activeOpacity` values between 0.8–0.95 for consistent press feedback.
 
 ---
+<img width="378" height="821" alt="image" src="https://github.com/user-attachments/assets/bc310f7c-964c-4d26-85eb-1cd848bb0f45" />
+<img width="380" height="611" alt="image" src="https://github.com/user-attachments/assets/b2c7b269-f7fa-481f-9102-9f234e44079e" />
+
 
 ## Trust Score / Reliability System
 
