@@ -1,4 +1,3 @@
-# Backend System Documentation
 
 <a href="https://github.com/DoubleZero00a19b16">
   <img src="https://github.com/DoubleZero00a19b16.png" width="60px" style="border-radius:50%;" alt="DoubleZero00a19b16's Profile"/>
