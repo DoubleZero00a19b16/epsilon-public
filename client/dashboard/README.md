@@ -1,4 +1,14 @@
 
+# Contributor
+
+<a href="https://github.com/DoubleZero00a19b16">
+  <img src="https://github.com/DoubleZero00a19b16.png" width="60px" style="border-radius:50%;" alt="DoubleZero00a19b16's Profile"/>
+</a>
+
+**Contributor:** [DoubleZero00a19b16](https://github.com/DoubleZero00a19b16)
+
+---
+
 # Mütləq oxu!
 
 Dashboard (admin panel) deploy olunub və AWS cloud'da işləyir!
@@ -6,8 +16,6 @@ Dashboard (admin panel) deploy olunub və AWS cloud'da işləyir!
 Link'ə klik edin: [DASHBOARD](http://16.171.0.209:8080/)
 
 Test User as Admin: ***+994501234567*** (number), ***password123*** (password)
-
-Contributer: [Ogtay Hashimli](https://github.com/DoubleZero00a19b16)
 
 # Nə etmək mümkündür?
 
